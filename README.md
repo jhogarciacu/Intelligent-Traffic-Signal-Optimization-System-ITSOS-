@@ -33,3 +33,11 @@ Data Flow Summary:
 -  ESP32-C6 adjusts green/red light timing.
 -  Dashboard displays real-time and historical data.
 
+### Visual Output of the System
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/bd019599-192a-43ac-a780-872982dafab0" />
+
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/6a472892-4f60-4eab-baf9-bd70f636b93e" />
+
+
+
+
